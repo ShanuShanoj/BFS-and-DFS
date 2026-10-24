@@ -1,0 +1,5 @@
+BFS Traversal: root documents photos notes music
+File found using BFS!
+
+DFS Traversal: root documents notes photos music
+File found using DFS!
