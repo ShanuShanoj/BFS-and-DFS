@@ -1,0 +1,14 @@
+
+5
+root
+documents
+photos
+notes
+music
+0 1 1 0 0
+1 0 0 1 0
+1 0 0 0 1
+0 1 0 0 0
+0 0 1 0 0
+0
+notes
